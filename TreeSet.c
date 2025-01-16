@@ -124,7 +124,7 @@ void print_value(TreeSet *tree) {
 
     while (q->size > 0) {
         int q_size = q->size;
-        printf("The values in layer %d are: ", idx);
+        printf("The values in layer %d are: \n", idx);
 
         for (int i = 0; i < q_size; i++) {
             TreeNode *node = pop(q);
