@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "treeset.h": "c",
+        "stdlib.h": "c"
+    }
+}
